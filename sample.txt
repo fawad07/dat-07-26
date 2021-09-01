@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-"info" 
-=======
-Sample file
->>>>>>> 776c52bfe55b4e8aac2e152d5c5b9da79359b1ff
