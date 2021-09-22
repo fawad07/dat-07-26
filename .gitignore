@@ -129,8 +129,4 @@ dmypy.json
 .pyre/
 
 # Apple files
-<<<<<<< Updated upstream
 .DS_Store
-=======
-.DS_S
->>>>>>> Stashed changes
