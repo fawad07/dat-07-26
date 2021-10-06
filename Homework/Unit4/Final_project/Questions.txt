@@ -1,0 +1,6 @@
+Explain on Feedback
+
+1) Why does xgboost keep giving a value error : NAN values exsist  when it suposed to deal with them?
+2) Why does the stratify option in my code keep giving me errors ?
+3) please answer questions in code comments in the feedback
+Thank you
